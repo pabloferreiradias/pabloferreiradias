@@ -16,7 +16,7 @@ Plataforma acadêmica voltada para pesquisa e visualização de dados sobre diss
 * Sistema de busca e visualização
 * Apoio à pesquisa científica
 
-👉 [https://historiatransviada.com/](https://historiatransviada.com/)
+👉 [https://historiatransviada.com/](https://historiatransviada.com/) 
 👉 [https://github.com/pabloferreiradias/HistoriaTransviada2024](https://github.com/pabloferreiradias/HistoriaTransviada2024)
 
 ---
@@ -97,7 +97,7 @@ Tenho interesse especial em projetos que envolvam:
 ## 📬 Contato
 
 * GitHub: [https://github.com/pabloferreiradias](https://github.com/pabloferreiradias)
-* LinkedIn: [https://github.com/pabloferreiradias](https://www.linkedin.com/in/pablo-dias-aa023599/)
+* LinkedIn: [https://www.linkedin.com/in/pablo-dias-aa023599/](https://www.linkedin.com/in/pablo-dias-aa023599/)
 * Email: pablolfdias@gmail.com
 
 ---
