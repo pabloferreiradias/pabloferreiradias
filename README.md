@@ -21,6 +21,22 @@ Plataforma acadêmica voltada para pesquisa e visualização de dados sobre diss
 
 ---
 
+🔗 Kanban Flow (Desafrio Dev Senior)
+
+Projeto desenvolvido como desafio técnico, focado em boas práticas de desenvolvimento fullstacker, organização de código e construção de interfaces modernas.
+
+Desenvolvimento com JavaScript e React no frontend
+Desenvolvimento com Laravel 13 no backend
+Componentização e reutilização
+Consumo de APIs
+Foco em experiência do usuário
+Uso do Swagger para documentação
+Testes Unitarios em PHPUnit (Em desenvolvimento)
+
+👉 [https://github.com/pabloferreiradias/front-end-dev-senior](https://github.com/pabloferreiradias/front-end-dev-senior)
+
+---
+
 ### 🔗 Gama
 
 Aplicativo de relacionamento focado na comunidade LGBTQI+, com proposta de reduzir o "burnout da paquera" através de mecânicas gamificadas.
