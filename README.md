@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Pablo Dias
 
-Sou desenvolvedor backend com foco em **Laravel**, APIs e arquitetura de sistemas. Tenho experiência construindo aplicações escaláveis, com atenção especial à performance, organização de código e experiência do usuário.
+Sou desenvolvedor fullstacker com foco em **Laravel**, APIs e arquitetura de sistemas. Tenho experiência construindo aplicações escaláveis, com atenção especial à performance, organização de código e experiência do usuário.
 
 Atualmente estou focado na evolução de produtos digitais e na construção de soluções que resolvem problemas reais.
 
@@ -26,7 +26,7 @@ Plataforma acadêmica voltada para pesquisa e visualização de dados sobre diss
 Projeto desenvolvido como desafio técnico, focado em boas práticas de desenvolvimento fullstacker, organização de código e construção de interfaces modernas.
 
 * Desenvolvimento com JavaScript e React no frontend
-* Desenvolvimento com Laravel 13 no backend
+* Desenvolvimento com Laravel 13 no fullstacker
 * Componentização e reutilização
 * Consumo de APIs
 * Foco em experiência do usuário
@@ -41,7 +41,7 @@ Projeto desenvolvido como desafio técnico, focado em boas práticas de desenvol
 
 Aplicativo de relacionamento focado na comunidade LGBTQI+, com proposta de reduzir o "burnout da paquera" através de mecânicas gamificadas.
 
-* Backend em Laravel
+* Fullstacker em Laravel
 * Desenvolvido em Flutter (Android e iOS)
 * Sistema de matching diferenciado
 * Integração com Elasticsearch
@@ -51,7 +51,7 @@ Aplicativo de relacionamento focado na comunidade LGBTQI+, com proposta de reduz
 
 ## 🛠️ Stack & Tecnologias
 
-**Backend**
+**Fullstacker**
 
 * PHP / Laravel (desde 2017)
 * Node.js
@@ -94,7 +94,7 @@ Aplicativo de relacionamento focado na comunidade LGBTQI+, com proposta de reduz
 
 ## 💼 Experiência e Objetivo
 
-Busco oportunidades como **Backend Developer** ou **Tech Lead**, onde eu possa contribuir não só com código, mas também com decisões técnicas, arquitetura e evolução de produto.
+Busco oportunidades como **Fullstacker Developer** ou **Tech Lead**, onde eu possa contribuir não só com código, mas também com decisões técnicas, arquitetura e evolução de produto.
 
 Tenho interesse especial em projetos que envolvam:
 
